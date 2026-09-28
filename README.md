@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/MrDescZ">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5b6573&fontSize=54&height=90&width=602&text=Hello!%20I'm%20DescZ" alt="Hello! I&#39;m DescZ" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5b6573&fontSize=54&height=90&width=602&text=Hello!%20Its%20DescZ" alt="Hello! Its DescZ" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=460&height=44&lines=i%20make%20cool%20windows%20tools%20%3A)" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff7b72&center=true&vCenter=true&width=460&height=44&lines=I%20do%20open-source%20projects%20%3A);Cool%20ones" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
@@ -41,4 +41,3 @@ Software developer who loves building new apps
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/MrDescZ">MrDescZ</a></i></p>
-
